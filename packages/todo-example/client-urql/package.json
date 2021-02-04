@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "urql": "1.11.6",
-    "graphql": "15.4.0-experimental-stream-defer.1"
+    "graphql": "15.5.0"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "1.20.1",
